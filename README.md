@@ -40,6 +40,21 @@ This project provides a complete home automation solution with:
 - ✅ SQLite database for data persistence
 - ✅ CORS-enabled for cross-origin requests
 - ✅ Comprehensive error handling
+- 
+
+home-automation-system/
+├── home_automation_backend/     # Flask backend
+├── home_automation_frontend/    # React frontend  
+├── iot_devices/                 # ESP32 code and simulator
+├── README.md                    # Main documentation
+├── SETUP.md                     # Setup instructions
+├── API_DOCUMENTATION.md         # API reference
+├── PROJECT_STRUCTURE.md         # Project organization
+├── system_architecture.md       # Architecture document
+├── testing_results.md           # Test results
+├── .gitignore                   # Git ignore rules
+└── setup_mqtt.sh                # MQTT setup script
+
 
 ## 🏗️ System Architecture
 
